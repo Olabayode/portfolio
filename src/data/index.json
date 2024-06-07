@@ -1,0 +1,54 @@
+{
+    "skills": [
+        {
+            "id": "1",
+            "src": "./img/tag-1.png",
+            "title": "Python",
+            "description": "Proficient use of Django Web Framework For Back-End Development"
+        },
+        {
+            "id": "2",
+            "src": "./img/feather-pen-1.png",
+            "title": "JavaScript(JS)",
+            "description": "Solid use of ReactJS Library for Front-End Development"
+        },
+        {
+            "id": "3",
+            "src": "./img/product-chain-1.png",
+            "title": "Databases",
+            "description": "PostgreSQL, My SQL, Firebase"
+        },
+        {
+            "id": "4",
+            "src": "./img/feather-pen-2.png",
+            "title": "API",
+            "description": "REST API"
+        }
+    ],
+    "portfolio": [
+        {
+          "id": "1",
+          "src": "./img/Weather.png",
+          "title": "Weather App",
+          "description": " Web application built with React.js and weather API integration used to check weather condition in various locations",
+          "link": "https://github.com/Olabayode/Weather-App-react",
+          "page": "https://weather-app-react-ten-gilt.vercel.app/"
+        },
+        {
+          "id": "2",
+          "src": "./img/GitFinder.png",
+          "title": "GitHub Finder App",
+          "description": " Web application built with React.js which consumes GitHub API used to assess profiles of GitHub users with important details and direct link to their GitHub page",
+          "link": "https://github.com/Olabayode/GitHub-Finder-App",
+          "page": "https://git-hub-finder-app-cyan.vercel.app/"
+        },
+        {
+          "id": "3",
+          "src": "./img/homplace.png",
+          "title": "House MarketPlace",
+          "description": " Web application built with React.js and Firebase, This is a scalable web application for selling, buying and renting houses",
+          "link": "https://github.com/Olabayode/House-Marketplace-Prjct",
+          "page": "https://house-marketplace-prjct.vercel.app/"
+        }
+      ]
+}
