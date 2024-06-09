@@ -1,6 +1,7 @@
 import React from 'react'
 import Typical from 'react-typical'
 import './Profile.css';
+import { Link } from 'react-scroll';
 
 export default function Profile() {
   return (
@@ -49,10 +50,12 @@ export default function Profile() {
                     </span>
                 </div>
                 <div className='profile-options'>
+                    <Link to='Contact'>
                     <button className='btn primary-btn'>
                         {" "}
                         Hire Me{""}
                     </button>
+                    </Link >
                     <a href='EmmCv.pdf' download={"Emmanuel Olure CV.pdf"}>
                         <button className='btn highlighted-btn'>Get Resume</button>
                     </a>
