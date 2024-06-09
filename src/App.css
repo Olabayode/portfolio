@@ -40,7 +40,7 @@ h1{
   justify-content: space-between;
   align-items: center;
   padding: 15px 85.333px;
-  background: #6a4ee7;
+  background: #1B4965;
   box-shadow: 0px 5.333px 80px 0 rgba(0, 0, 0, 0.1);
   position: fixed;
   top: 0;
@@ -61,7 +61,7 @@ h1{
 }
 /* Navbar Content */
 .navbar--content {
-  color: var(--black);
+  color:  #093312;
   font-size: 16px;
   font-style: normal;
   font-weight: bolder;
@@ -69,7 +69,7 @@ h1{
   cursor: pointer;
 }
 .navbar--active-content {
-  color: #5e3bee;
+  color: #288a35;
 }
 .btn {
   font-family: "Roboto";
@@ -105,7 +105,7 @@ h1{
 /* Section Titles */
 /* Skills & About Me */
 .section--title {
-  color: #0e0d0d;;
+  color: #31a762;;
   font-size: 34px;
   text-align: center;
   font-style: normal;
@@ -132,7 +132,7 @@ h1{
   gap: 106.667px;
 }
 .skills--section--heading {
-  color: var(--black);
+  color: #5d01f1;
   font-size: 64px;
   font-weight: 700;
   line-height: 77px;
@@ -179,13 +179,13 @@ h1{
   align-self: stretch;
 }
 .skills--section--title {
-  color: var(--heading-color);
+  color: #b298dc;
   font-size: 32px;
   font-weight: 700;
   line-height: 45px;
 }
 .skills--section--description {
-  color: var(--black);
+  color: #b298dc;
   font-size: 21.3px;
   font-style: normal;
   font-weight: 400;
